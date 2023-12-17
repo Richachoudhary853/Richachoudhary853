@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **choudharyricha853@gmail.com**
 
-- ⚡ Fun fact **Creative🪄🛍️🎨/Coder💻/Ciao🍃**
+- ⚡ Fun fact **Creative💫/Coder💻/Ciao🍃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
