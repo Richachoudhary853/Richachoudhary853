@@ -1,8 +1,7 @@
 <h1 align="center">Hello guys 👋, I'm Richa</h1>
 <h3 align="center">Interested in learning and exploring new technologies</h3>
 
-<img  src="![image](https://github.com/Richachoudhary853/Richachoudhary853/assets/143266411/29cb3392-9f57-41b1-8521-b695f716ffe8)
-">
+[image](https://github.com/Richachoudhary853/Richachoudhary853/assets/143266411/29cb3392-9f57-41b1-8521-b695f716ffe8)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richachoudhary853&label=Profile%20views&color=0e75b6&style=flat" alt="richachoudhary853" /> </p>
 
