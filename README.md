@@ -2,14 +2,6 @@
 <h3 align="center">Interested in learning and exploring new technologies</h3>
 
 <p align="right"> <img src="https://github.com/Richachoudhary853/Richachoudhary853/assets/143266411/29cb3392-9f57-41b1-8521-b695f716ffe8)">
-Hacktoberfest 2023: Level 3
-Hacktoberfest 2023: Level 2
-Hacktoberfest 2023: Level 1
-Hacktoberfest 2023: Registered
-DigitalOcean Smiley
-ILLA Hacktoberfest 2023 Participation Badge
-Hacktoberfest 2024: Registered
-Hacktoberfest 2023: Level 4
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richachoudhary853&label=Profile%20views&color=0e75b6&style=flat" alt="richachoudhary853" /> </p>
 
